@@ -1,4 +1,4 @@
-# PT014_WS2812_FastledRainbow_With_ATTiny85
+# PT015_WS2812_FastledRainbow_With_ATTiny85
 Sample Fastled Rainbow WS2812 With ATTiny85
 
 This actually was an example from FASTLED library. But I can't remember which one was it. 
